@@ -1,18 +1,18 @@
-=== Zapier Proxy for WishList Member ===
-Contributors: macbookandrew
-Tags: membership, wishlist, wishlist member, zapier
-Donate link: https://cash.me/$AndrewRMinionDesign
-Requires at least: 4.3
-Tested up to: 4.8
-Stable tag: 1.0.0
-License: GPL2
+# Zapier Proxy for WishList Member #
+**Contributors:** [macbookandrew](https://profiles.wordpress.org/macbookandrew)  
+**Tags:** membership, wishlist, wishlist member, zapier  
+**Donate link:** https://cash.me/$AndrewRMinionDesign  
+**Requires at least:** 4.3  
+**Tested up to:** 4.8  
+**Stable tag:** 1.0.0  
+**License:** GPL2  
 
 Integrates Zapier with WishList Member generic shopping cart
 
-== Description ==
+## Description ##
 Integrates Zapier with WishList Member generic shopping cart so customers are automatically given access.
 
-== Installation ==
+## Installation ##
 1. Install this plugin
 1. Enable the Generic Shopping Cart in WishList Member
     1. Go to WishList Member > Integration and choose the “Shopping Cart” tab
@@ -33,11 +33,13 @@ Integrates Zapier with WishList Member generic shopping cart so customers are au
     1. `email`: contact’s email address
     1. `level`: the SKU for your WishList Member Membership Level
 
-== Screenshots ==
+## Screenshots ##
 
-1. Zapier Recommended Setup
+### 1. Zapier Recommended Setup ###
+![Zapier Recommended Setup](https://github.com/macbookandrew/wlm-zapier-proxy/blob/master/assets/screenshot-1.png)
 
-== Changelog ==
 
-= 1.0.0 =
+## Changelog ##
+
+### 1.0.0 ###
  - First stable version

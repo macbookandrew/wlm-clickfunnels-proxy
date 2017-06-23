@@ -1,0 +1,24 @@
+{
+  "name": "wlm-zapier-proxy",
+  "version": "1.0.0",
+  "description": "Integrates Zapier with WishList Member generic shopping cart",
+  "main": "wlm-zapier-proxy.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macbookandrew/wlm-zapier-proxy.git"
+  },
+  "author": "AndrewRMinion Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macbookandrew/wlm-zapier-proxy/issues"
+  },
+  "homepage": "https://github.com/macbookandrew/wlm-zapier-proxy#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-wp-i18n": "^1.0.0",
+    "grunt-wp-readme-to-markdown": "^2.0.1"
+  }
+}

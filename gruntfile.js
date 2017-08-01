@@ -25,7 +25,7 @@ module.exports = function( grunt ) {
                 }
             },
             options: {
-                screenshot_url: 'https://github.com/macbookandrew/wlm-zapier-proxy/blob/master/assets/{screenshot}.png',
+                screenshot_url: 'https://raw.githubusercontent.com/macbookandrew/wlm-zapier-proxy/master/assets/{screenshot}.png',
             }
         },
 

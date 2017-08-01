@@ -36,7 +36,7 @@ Integrates Zapier with WishList Member generic shopping cart so customers are au
 ## Screenshots ##
 
 ### 1. Zapier Recommended Setup ###
-![Zapier Recommended Setup](https://github.com/macbookandrew/wlm-zapier-proxy/blob/master/assets/screenshot-1.png)
+![Zapier Recommended Setup](https://raw.githubusercontent.com/macbookandrew/wlm-zapier-proxy/master/assets/screenshot-1.png)
 
 
 ## Changelog ##
